@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@safe-global/safe-ethers-adapters": "^0.1.0-alpha.16"
+  }
+}
